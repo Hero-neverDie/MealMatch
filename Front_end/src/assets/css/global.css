@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600&display=swap");
+html,#app{
+    font-family: "Montserrat", san-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    height: 100%;
+    padding:0;
+    background: #fff;
+    color: #4a4a4a;
+}
+body{
+    margin:0;
+}
